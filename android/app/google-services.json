@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482388767619",
+    "project_id": "myloginapplication-d38cd",
+    "storage_bucket": "myloginapplication-d38cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482388767619:android:82fbaaa0f46f63c111fcb6",
+        "android_client_info": {
+          "package_name": "com.example.vibrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482388767619-j1ttkus1ct5s9k26ahg1hgdbnjd42qli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB_iuwEY8ifU_ZGpkyFa_HSqBP8567G5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482388767619-j1ttkus1ct5s9k26ahg1hgdbnjd42qli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
